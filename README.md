@@ -1,4 +1,4 @@
-# rixens-esphome
+# Rixen's ESPHome for Home Assistant
 ESPHome YAML for Rixen's **MCS7** Hydronic Heating System
 
 ## Notes

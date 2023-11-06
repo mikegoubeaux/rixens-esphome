@@ -8,3 +8,5 @@ This is written and tested for the [Rixen's MCS7 hardware](https://rixens.com/co
 
 
 ![Screenshot 2023-11-06 at 1 25 04 PM](https://github.com/mikegoubeaux/rixens-esphome/assets/9661510/b6553085-e35c-4eff-befb-7e15b759714f)
+
+![Screenshot 2023-11-06 at 1 32 22 PM](https://github.com/mikegoubeaux/rixens-esphome/assets/9661510/dfb0d1ca-18c2-4d9b-b036-19ced3874270)

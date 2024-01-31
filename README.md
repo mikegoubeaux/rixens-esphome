@@ -6,7 +6,6 @@ This [ESPHome](https://esphome.io) YAML is written for an esp32 and uses the [es
 
 This is written and tested for the [Rixen's MCS7 hardware](https://rixens.com/collections/mcs-7-hydronic-system-documents). The CAN interface is pointed out on page 10 of the Rixen's [manual](https://cdn.shopify.com/s/files/1/0530/5362/0413/files/Rixen_s_Installation_Manual_-_NA_10.2023_-_Final.pdf?v=1697649451).
 
-
-![Screenshot 2023-11-06 at 1 25 04 PM](https://github.com/mikegoubeaux/rixens-esphome/assets/9661510/b6553085-e35c-4eff-befb-7e15b759714f)
+![Screenshot 2024-01-31 at 10 08 05 AM](https://github.com/mikegoubeaux/rixens-esphome/assets/9661510/394ea22f-41c4-4714-8a11-c7cb545bdce4)
 
 ![Screenshot 2023-11-06 at 1 32 22 PM](https://github.com/mikegoubeaux/rixens-esphome/assets/9661510/dfb0d1ca-18c2-4d9b-b036-19ced3874270)

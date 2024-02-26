@@ -11,7 +11,7 @@ This [ESPHome](https://esphome.io) YAML is written for an esp32 and uses the [es
 
 This is written and tested for the [Rixen's MCS7 hardware](https://rixens.com/collections/mcs-7-hydronic-system-documents). The CAN interface is pointed out on page 10 of the Rixen's [MCS7 Installation Manual](https://rixens.com/collections/mcs-7-hydronic-system-documents).
 
-**NOTE:** This configuration assumes the presence of the engine preheat loop AND pump. To successfully use this configuration, you will very likely need to make modifications. See notes below.
+**NOTE:** This configuration assumes the presence of the engine heat loop AND preheat pump. To successfully use this configuration, you will very likely need to make modifications. See notes below.
 
 ![Screenshot 2024-01-31 at 10 08 05 AM](https://github.com/mikegoubeaux/rixens-esphome/assets/9661510/394ea22f-41c4-4714-8a11-c7cb545bdce4)
 
